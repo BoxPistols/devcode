@@ -1,0 +1,23 @@
+
+{
+  "nodes":[
+   {"id": "MainTarget", "group": 1},
+   {"id": "SubTarget", "group": 2},
+   {"id": "Skin", "group": 3},
+   {"id": "Rough", "group": 3},
+   {"id": "Face", "group": 2},
+   {"id": "Use", "group": 3},
+   {"id": "Match", "group": 3},
+   {"id": "Dry", "group": 3}
+ ],
+ "links":[
+  {"id": "MainTarget", "group": 1},
+  {"id": "SubTarget", "group": 2},
+  {"id": "Skin", "group": 3},
+  {"id": "Rough", "group": 3},
+  {"id": "Face", "group": 2},
+  {"id": "Use", "group": 3},
+  {"id": "Match", "group": 3},
+  {"id": "Dry", "group": 3}
+]
+}
